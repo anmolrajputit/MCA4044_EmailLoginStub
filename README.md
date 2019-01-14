@@ -1,4 +1,10 @@
-How to clone a project? [Internet Connection Required]
+## Step 1 : Fork the project. 
+
+There is an option to fork any repository on the top right hand corner of the repository web-page.
+
+**Fork this repository before starting any other step!**
+
+## How to clone a project? [Internet Connection Required]
 
 - Step 1 : Follow the link to any repository, for ex -
 
