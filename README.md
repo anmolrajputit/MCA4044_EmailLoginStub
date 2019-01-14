@@ -10,6 +10,8 @@ There is an option to fork any repository on the top right hand corner of the re
 
 - https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App
 
+- **I am only using the link of my repo as an example, you will clone your own repository**
+
   ![](https://github.com/dbc2201/MCA4044-Code-Stub-For-Resume-App/blob/master/app/src/main/res/drawable/follow_repo.png?raw=true)
 
 - Step 2 : Copy the link to clone the repository
